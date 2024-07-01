@@ -1,0 +1,4 @@
+requests==2.31.*
+ndjson==0.3.*
+pyzipper==0.3.*
+rich==13.5.*
